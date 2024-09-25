@@ -24,9 +24,9 @@ author:
   avatar           : "rkfoto.jpg"
   name             : "Robin Kottmann"
   pronouns         : # example: "she/her"  
-  #bio              : "PhD at RWI"
+  bio              : ""
   location         : "Essen, Germany"
-  #employer         : "RWI Essen"
+  employer         : 
   uri              : # URL
   email            : "robin.kottmann@rwi-essen.de" 
 
