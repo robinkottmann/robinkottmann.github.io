@@ -8,7 +8,7 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    <img src="{{ author.avatar }}" alt="..images/rkfoto.jpg">
     {% else %}
     <img src="{{ author.avatar | prepend: " /images/" | prepend: base_path }}" class="author__avatar"
       alt="{{ author.name }}">
@@ -31,7 +31,7 @@
       {% endif %}
       {% if author.employer %}
       <li><a href="https://www.rwi-essen.de/en/rwi/team/person/robin-kottmann"><i
-            class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{"RWI Essen"}}</a></li>
+            class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{"RWI Essen"}}</a></li>
       {% endif %}
       {% if author.uri %}
       <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{
