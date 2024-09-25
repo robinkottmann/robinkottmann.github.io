@@ -27,10 +27,7 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.employer %}
-		<li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i><a href="https://rwi-essen.de">{{ author.employer }}</a></li>
-	  {% endif %}
-	  {% if author.employer %}
+ 	  {% if author.employer %}
 		<li class="author__desktop">
 		<i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>
 		<a href="https://www.rwi-essen.de/rwi/team/person/robin-kottmann" style="display: inline;">{{ author.employer }}</a>
