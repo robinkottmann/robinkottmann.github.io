@@ -26,15 +26,14 @@
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop">
-		<i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>
+		<i class="fa-solid fa-location-dot icon-pad-right"></i>
 		{{ author.location }}
 		</li>
       {% endif %}
  	  {% if author.employer %}
 		<li class="author__desktop">
-
 		<a href="https://www.rwi-essen.de/rwi/team/person/robin-kottmann">
-		<i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>
+		<i class="fa fa-solid fa-building-columns icon-pad-right"></i>
 		{{ author.employer }}</a>
 		</li>
 	  {% endif %}
@@ -42,7 +41,7 @@
       {% if author.email %}
         <li>
 		<a href="mailto:{{ author.email }}">
-		<i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+		<i class="fas fa-fw fa-envelope icon-pad-right"></i>
 		{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
 		</li>
       {% endif %}
