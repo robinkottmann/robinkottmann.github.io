@@ -1,30 +1,25 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+### Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health
+<img src="../images/REP.jpg" alt="WP" width="15" height="20" /> Johannes Brehm, Henri Gruhl, Robin Kottmann, Laura
+Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health." <em>Ruhr
+    Economic Papers</em> 1093 (2024) <a
+    href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1093.pdf">Link</a>
+<br />
+[Download](../files/2024_09_25_LDZ.pdf) <br />
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-{% for category in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
-<hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
-{% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-{% endif %}
+<details>
+    <summary>Abstract</summary>
+    Does exposure to air pollution impact mental health? This paper uses administrative health insurance data to
+    estimate the medium-term cumulative effects of air pollution exposure on mental health outcomes. For identification,
+    we exploit the staggered introduction of Low Emission Zones (LEZs) across German cities, which restrict access for
+    emission-intensive vehicles. We find that LEZs reduce various air pollutants and improve the population's mental
+    health measured by depression and anxiety diagnoses, prescriptions, and specialist visits. The health benefits
+    emerge gradually, with younger individuals benefiting the most. Our findings suggest substantial mental health
+    co-benefits and avoided health costs from improved air quality.
+</details>
