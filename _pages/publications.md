@@ -24,3 +24,8 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 </details>
 
 ## Work in Progress
+### The Effect of Retirement Duration on Women's Cognitive Performance
+Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal
+
+### Are treatment decisions in health care markets efficient? Implications from heterogeneous treatment effects of heart attack patients
+Robin Kottmann, Hendrik Schmitz, Matthias Westphal, Ansgar Wübker
