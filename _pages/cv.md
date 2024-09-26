@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="files/CV_Robin-Kottmann_EN.pdf">Download PDF</a>
+<embed src="files/CV_Robin-Kottmann_EN.pdf" type="application/pdf" width="700px" height="700px"/>
 
-<object data="../files/CV_Robin-Kottmann_EN.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="files/CV_Robin-Kottmann_EN.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/CV_Robin-Kottmann_EN.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
