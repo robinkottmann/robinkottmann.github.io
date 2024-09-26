@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/CV_Robin-Kottmann_EN.pdf">Download PDF</a>
+<a href="https://robinkottmann.github.io/files/CV_Robin-Kottmann_EN.pdf">Download PDF</a>
