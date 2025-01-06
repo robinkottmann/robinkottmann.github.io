@@ -10,7 +10,7 @@ author_profile: true
 <img src="../images/REP_1131.jpg" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Ruhr
     Economic Papers</em> 1131 (2024) 
     <br />
-    <a href="https://www.rwi-essen.de/publikationen/wissenschaftlich/ruhr-economic-papers/detail/effects-of-retirement-on-cognitive-functioning-evidence-7265">Link</a> | <a href = "../files/2024_12_20_RCD.pdf">Download </a> <br />
+    <a href="https://www.rwi-essen.de/publikationen/wissenschaftlich/ruhr-economic-papers/detail/effects-of-retirement-on-cognitive-functioning-evidence-7265">Link</a> 
 
 <details>
     <summary>Abstract</summary>
@@ -22,7 +22,7 @@ author_profile: true
 Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health." <em>Ruhr
     Economic Papers</em> 1093 (2024) 
     <br />
-    <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1093.pdf">Link</a> | <a href = "../files/2024_09_25_LDZ.pdf">Download </a> <br />
+    <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1093.pdf">Link</a> 
 
 <details>
     <summary>Abstract</summary>
