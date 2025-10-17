@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Working Papers
 
-### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data
+### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data (R&R at Journal of Health Economics)
 <img src="../images/REP_1131.jpg" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Ruhr
     Economic Papers</em> 1131 (2024) 
     <br />
@@ -33,3 +33,6 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 ### Are treatment decisions in health care markets efficient? Implications from heterogeneous treatment effects of heart attack patients
 Robin Kottmann, Hendrik Schmitz, Matthias Westphal, Ansgar Wübker
+
+### Heat and Hospitals
+Robin Kottmann
