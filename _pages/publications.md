@@ -31,8 +31,5 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 ## Work in Progress
 
-### Are treatment decisions in health care markets efficient? Implications from heterogeneous treatment effects of heart attack patients
-Robin Kottmann, Hendrik Schmitz, Matthias Westphal, Ansgar Wübker
-
-### Heat and Hospitals
+### Ambient Temperature and Hospitals
 Robin Kottmann
