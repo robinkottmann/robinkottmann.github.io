@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Robin, a PhD candidate in Economics at Paderborn University and RWI - Leibniz Institute for Economic Research.
+Hi! I’m Robin, a PhD candidate in Economics at Paderborn University and RWI - Leibniz Institute for Economic Research. My research interests are applied econometrics and health and environmental economics. I do most of my research using large administrative datasets.
