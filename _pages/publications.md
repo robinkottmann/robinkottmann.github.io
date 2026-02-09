@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Working Papers
 
-### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data (R&R at Journal of Health Economics)
+### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data 
 <img src="../images/REP_1131.jpg" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Ruhr
-    Economic Papers</em> 1131 (2024) 
+    Economic Papers</em> 1131 (2024) <strong>(R&R at Journal of Health Economics)</strong>
     <br />
     <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1131.pdf">Link</a> 
 
@@ -33,3 +33,9 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 ### Ambient Temperature and Hospitals
 Robin Kottmann
+
+### Long-Term Health Effects of Retirement
+Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal
+
+### Retirement Duration Effects on Health
+Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal
