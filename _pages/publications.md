@@ -31,7 +31,7 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 ## Work in Progress
 
-### Ambient Temperature and Hospitals
+### Ambient Temperature and the Risk of Hospital-Acquired Infections
 Robin Kottmann
 
 ### Long-Term Health Effects of Retirement
