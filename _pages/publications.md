@@ -32,7 +32,7 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 ## Work in Progress
 
 ### Ambient Temperature and the Risk of Hospital-Acquired Infections.
-Robin Kottmann. "Ambient Temperature and the Risk of Hospital-Acquired Infections." <strong>Submitted</strong> 
+Robin Kottmann. <strong>Submitted</strong> 
     <br />
     <a href="https://robinkottmann.github.io/files/Heat_Hospitals.pdf">Draft</a>
 
