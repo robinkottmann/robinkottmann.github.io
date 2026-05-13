@@ -32,13 +32,13 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 ## Work in Progress
 
 ### Ambient Temperature and the Risk of Hospital-Acquired Infections.
-Robin Kottmann. <strong>Submitted</strong> 
+Robin Kottmann. <strong>Draft on request. </strong> 
     <br />
-    <a href="https://robinkottmann.github.io/files/Heat_Hospitals.pdf">Draft</a>
+    
 
 <details>
     <summary>Abstract</summary>
-    This study estimates how short-run exposure to extreme temperatures affects hospital-acquired infections (HAIs). Using German administrative health data (2005-2023) linked to local weather, I exploit quasi-random daily temperature variation during the first three days of admission. I find that extreme heat significantly increases HAI risk: each day ≥30°C raises infection probability by 0.06 percentage points (1.43 percent), while extreme cold reduces it. These effects are concentrated among vulnerable patients, high-risk procedures, smaller hospitals, and historically cooler regions. These findings highlight a critical clinical channel through which climate change impacts healthcare quality.
+    This study estimates how short-run exposure to extreme temperatures affects hospital-acquired infections (HAIs). Using German administrative health data (2005-2023) linked to local weather, I exploit quasi-random daily temperature variation during the first three days of admission. I find that extreme heat significantly increases HAI risk: each day ≥30°C raises infection probability by 0.06 percentage points (1.43 percent), while extreme cold reduces it. These effects are concentrated among vulnerable patients, high-risk procedures, smaller hospitals, and historically cooler regions. These findings highlight a critical clinical channel through which climate change impacts healthcare systems.
 </details>
 
 ### Long-Term Health Effects of Retirement
