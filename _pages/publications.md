@@ -31,6 +31,16 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 ## Work in Progress
 
+### Can Hospitals Protect Patients from Extreme Heat? Evidence from Hospital-Acquired Dehydration.
+Henri Gruhl, Robin Kottmann. <strong>Submitted. Draft on request. </strong> 
+    <br />
+
+<details>
+    <summary>Abstract</summary>
+    Is the healthcare system equipped to protect patients from extreme heat? We study this question in the hospital sector, using hospital-acquired dehydration as a marker of heat-related health deterioration. Linking daily temperature data to administrative health insurance records covering 34.1 million German hospital admissions, we estimate the effect of inpatient heat exposure on dehydration diagnoses among patients without dehydration at admission.
+    We find that extreme heat substantially increases the risk of hospital-acquired dehydration. Relative to hospital stays with temperatures between 15 and 20°C, stays with temperatures above 30°C raise the probability of dehydration by 0.67 percentage points, an 18 percent increase relative to the baseline incidence. These effects are concentrated among older patients and those with dementia, highlighting greater vulnerability among individuals requiring intensive monitoring. Our findings demonstrate that climate change threatens health systems not only by increasing external demand for care, but also by exposing internal institutional limitations, underscoring the urgent need for hospital adaptation to prevent avoidable in-hospital health deterioration.
+</details>
+
 ### Ambient Temperature and the Risk of Hospital-Acquired Infections.
 Robin Kottmann. <strong>Draft on request. </strong> 
     <br />
@@ -40,9 +50,6 @@ Robin Kottmann. <strong>Draft on request. </strong>
     <summary>Abstract</summary>
     This study estimates how short-run exposure to extreme temperatures affects hospital-acquired infections (HAIs). Using German administrative health data (2005-2023) linked to local weather, I exploit quasi-random daily temperature variation during the first three days of admission. I find that extreme heat significantly increases HAI risk: each day ≥30°C raises infection probability by 0.06 percentage points (1.43 percent), while extreme cold reduces it. These effects are concentrated among vulnerable patients, high-risk procedures, smaller hospitals, and historically cooler regions. These findings highlight a critical clinical channel through which climate change impacts healthcare systems.
 </details>
-
-### Long-Term Health Effects of Retirement
-Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal
 
 ### Retirement Duration Effects on Health
 Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal
