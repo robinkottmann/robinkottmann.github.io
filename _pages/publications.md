@@ -4,18 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Working Papers
+
+## Published Papers
 
 ### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data 
-<img src="../images/REP_1131.jpg" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Ruhr
-    Economic Papers</em> 1131 (2024) <strong>(R&R at Journal of Health Economics)</strong>
+<img src="../images/jhe.gif" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Journal of Health Economics</em> (2026).
     <br />
-    <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1131.pdf">Link</a> 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0167629626000597">Link</a> 
 
 <details>
     <summary>Abstract</summary>
-   We study the effects of retirement on cognitive functioning among women aged 63 to 67 by exploiting a German retirement reform that raised the early retirement age for women born after 1951 by three years, from 60 to 63. Our indicators of cognitive functioning are experimental measures (word recall, semantic fluency, and the Stroop test) from a large biomedical data set, as well as the diagnosis of cognitive disorders from administrative health insurance claims. We find reductions of around 12% of a standard deviation per year in retirement for measures of fluid intelligence and of an insignificant 6% for crystallized intelligence. The diagnosis of cognitive disorders remains unaffected.
+   We study the effects of retirement on cognitive functioning among women aged 63 to 67 by exploiting a German retirement reform that raised the early retirement age for women born after 1951 by three years, from 60 to 63. Our indicators of cognitive functioning are objective cognitive test scores (word recall, semantic fluency, and the Stroop test) from a large biomedical dataset, as well as the diagnosis of cognitive disorders from administrative health insurance claims. We find reductions of around 13% of a standard deviation per year in retirement for measures of fluid intelligence, whereas crystallized intelligence remains unaffected. These estimates reflect the reform-induced shift in retirement duration for compliers around the eligibility cutoff. In contrast, additional years in retirement do not affect diagnosis of cognitive disorder and decrease diagnoses of dementia-related risk factors such as hypertension, depression, and sleep problems. The improvement in health outcomes suggests that cognitive decline is not driven by health deterioration but might possibly be due to reduced cognitive engagement after leaving work.
 </details>
+
+
+## Working Papers
 
 ### Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health
 <img src="../images/REP_1093.jpg" alt="WP" width="15" height="20" /> Johannes Brehm, Henri Gruhl, Robin Kottmann, Laura
@@ -28,6 +31,7 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
     <summary>Abstract</summary>
     Does exposure to air pollution impact mental health? This paper uses administrative health insurance data to estimate the medium-term cumulative effects of air pollution exposure on mental health outcomes. For identification, we exploit the staggered introduction of Low Emission Zones (LEZs) across German cities, which restrict access for emission-intensive vehicles. We find that LEZs reduce various air pollutants and improve the population's mental health measured by depression and anxiety diagnoses, prescriptions, and specialist visits. The health benefits emerge gradually, with younger individuals benefiting the most. Our findings suggest substantial mental health co-benefits and avoided health costs from improved air quality.
 </details>
+
 
 ## Work in Progress
 
@@ -45,7 +49,6 @@ Henri Gruhl, Robin Kottmann. <strong>Submitted. Draft on request. </strong>
 Robin Kottmann. <strong>Draft on request. </strong> 
     <br />
     
-
 <details>
     <summary>Abstract</summary>
     This study estimates how short-run exposure to extreme temperatures affects hospital-acquired infections (HAIs). Using German administrative health data (2005-2023) linked to local weather, I exploit quasi-random daily temperature variation during the first three days of admission. I find that extreme heat significantly increases HAI risk: each day ≥30°C raises infection probability by 0.06 percentage points (1.43 percent), while extreme cold reduces it. These effects are concentrated among vulnerable patients, high-risk procedures, smaller hospitals, and historically cooler regions. These findings highlight a critical clinical channel through which climate change impacts healthcare systems.
