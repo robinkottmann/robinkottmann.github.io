@@ -8,7 +8,7 @@ author_profile: true
 ## Published Papers
 
 ### Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data 
-<img src="../images/jhe.gif" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Journal of Health Economics</em> (2026).
+<img src="../images/jhe.gif" alt="WP" width="15" height="20" /> Henrik Bergschneider, Robin Kottmann, Hendrik Schmitz, Matthias Westphal. "Effects of Retirement on Cognitive Functioning – Evidence from Biomedical and Administrative Insurance Claims Data." <em>Journal of Health Economics</em>, Vol. 108, 103161 (2026).
     <br />
     <a href="https://www.sciencedirect.com/science/article/pii/S0167629626000597">Link</a> 
 
