@@ -23,7 +23,7 @@ author_profile: true
 ### Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health
 <img src="../images/REP_1093.jpg" alt="WP" width="15" height="20" /> Johannes Brehm, Henri Gruhl, Robin Kottmann, Laura
 Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health." <em>Ruhr
-    Economic Papers</em> 1093 (2024) 
+    Economic Papers</em> 1093 (2024) . <strong>Revise and Resubmit at Journal of Environmental Economics and Management.</strong> 
     <br />
     <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_24_1093.pdf">Link</a> 
 
