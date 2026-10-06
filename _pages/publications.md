@@ -20,6 +20,18 @@ author_profile: true
 
 ## Working Papers
 
+### Can Hospitals Protect Patients from Extreme Heat? Evidence from Hospital-Acquired Dehydration
+<img src="../images/REP_1227.jpg" alt="WP" width="15" height="20" /> Henri Gruhl, Robin Kottmann. "Can Hospitals Protect Patients from Extreme Heat? Evidence from Hospital-Acquired Dehydration." <em>Ruhr
+    Economic Papers</em> 1227 (2026) . <strong>Submitted.</strong> 
+    <br />
+    <a href="https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_26_1227.pdf">Link</a> 
+
+<details>
+    <summary>Abstract</summary>
+    Is the healthcare system equipped to protect patients from extreme heat? We study this question in the hospital sector, using hospital-acquired dehydration as a marker of heat-related health deterioration. Linking daily temperature data to administrative health insurance records covering 34.1 million German hospital admissions, we estimate the effect of inpatient heat exposure on dehydration diagnoses among patients without dehydration at admission.
+    We find that extreme heat substantially increases the risk of hospital-acquired dehydration. Relative to hospital stays with temperatures between 15 and 20°C, stays with temperatures above 30°C raise the probability of dehydration by 0.67 percentage points, an 18 percent increase relative to the baseline incidence. These effects are concentrated among older patients and those with dementia, highlighting greater vulnerability among individuals requiring intensive monitoring. Our findings demonstrate that climate change threatens health systems not only by increasing external demand for care, but also by exposing internal institutional limitations, underscoring the urgent need for hospital adaptation to prevent avoidable in-hospital health deterioration.
+</details>
+
 ### Environmental Regulation and Mental Health: Evidence from Driving Restrictions
 <img src="../images/REP_1093.jpg" alt="WP" width="15" height="20" /> Johannes Brehm, Henri Gruhl, Robin Kottmann, Laura
 Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollution and Mental Health." <em>Ruhr
@@ -34,16 +46,6 @@ Schmitz. "Low Depression Zones? The Effect of Driving Restrictions on Air Pollut
 
 
 ## Work in Progress
-
-### Can Hospitals Protect Patients from Extreme Heat? Evidence from Hospital-Acquired Dehydration.
-Henri Gruhl, Robin Kottmann. <strong>Submitted. Draft on request. </strong> 
-    <br />
-
-<details>
-    <summary>Abstract</summary>
-    Is the healthcare system equipped to protect patients from extreme heat? We study this question in the hospital sector, using hospital-acquired dehydration as a marker of heat-related health deterioration. Linking daily temperature data to administrative health insurance records covering 34.1 million German hospital admissions, we estimate the effect of inpatient heat exposure on dehydration diagnoses among patients without dehydration at admission.
-    We find that extreme heat substantially increases the risk of hospital-acquired dehydration. Relative to hospital stays with temperatures between 15 and 20°C, stays with temperatures above 30°C raise the probability of dehydration by 0.67 percentage points, an 18 percent increase relative to the baseline incidence. These effects are concentrated among older patients and those with dementia, highlighting greater vulnerability among individuals requiring intensive monitoring. Our findings demonstrate that climate change threatens health systems not only by increasing external demand for care, but also by exposing internal institutional limitations, underscoring the urgent need for hospital adaptation to prevent avoidable in-hospital health deterioration.
-</details>
 
 ### Ambient Temperature and the Risk of Hospital-Acquired Infections.
 Robin Kottmann. <strong>Draft on request. </strong> 
